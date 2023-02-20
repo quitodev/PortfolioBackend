@@ -8,7 +8,11 @@ Hi! My name is Marcos and this is my portfolio. Enjoy it! :)
 
 ## Technologies implemented
 - Dart
-- Flutter
+- GetX
+- NodeJS
+- Express
+- MongoDB
+- Render
 - Responsive Builder
 - Clean Architecture
 - SOLID
